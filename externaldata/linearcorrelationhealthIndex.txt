@@ -1,0 +1,2 @@
+Average: 11.4
+Constant: -25.53

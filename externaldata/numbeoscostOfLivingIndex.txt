@@ -1,0 +1,4 @@
+Cork:74.09
+Dublin:80.34
+Galway:71.86
+Other areas:78.03
